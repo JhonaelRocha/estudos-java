@@ -28,5 +28,6 @@ public class Usuario {
         smartTV.aumentarCanal();
         smartTV.aumentarCanal();
         smartTV.aumentarCanal();
+        smartTV.aumentarCanal();
     }
 }
